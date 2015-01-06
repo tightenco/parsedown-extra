@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "erusev/parsedown": "dev-master#c9b4de3"
+        "erusev/parsedown": "dev-master#c9b4de3c9daf9c4dc40e500696c250b192d2f66a"
     },
     "autoload": {
         "psr-0": {"ParsedownExtra": ""}
